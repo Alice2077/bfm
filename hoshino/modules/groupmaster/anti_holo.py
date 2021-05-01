@@ -89,7 +89,7 @@ Airani Iofifteen
 一伊那尔栖 Ninomae Ina'nis 一伊那尓栖 伊那
 森美声 Mori Calliope 巨乳版露西娅 巨乳露西娅
 小鸟游琪亚拉 Takanashi Kiara 小鳥遊キアラ 琪亚拉
-华生 阿米莉亚 Watson Amelia ワトソン アメリア 艾米
+华生 阿米莉亚 Watson Amelia ワトソン アメリア
 友人A YuujinA
 谷乡元昭 YAGOO 谷郷元昭 Tanigou Motoaki
 斯哈斯哈
