@@ -755,7 +755,7 @@ async def on_input_chara_name(bot, ev: CQEvent):
                 uid = ev.user_id
                 guid = gid, uid
                 if duel._get_level(gid, uid) != 0 and daily_score_limiter.check(guid):
-                    score = random.randint(100, 300)
+                    score = random.randint(5, 20)
                     score_counter = ScoreCounter2()
                     score_counter._add_score(gid, uid, score)
                     daily_score_limiter.increase(guid)
