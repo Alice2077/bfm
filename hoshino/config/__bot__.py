@@ -36,6 +36,7 @@ MODULES_ON = {
     'eqa',  #问答：https://github.com/pcrbot/erinilis-modules/tree/master/eqa
     'fake_message',  #生成假消息，https://github.com/pcrbot/fake_message
     'Genshin_Impact_bot',  #原神相关：https://github.com/pcrbot/Genshin_Impact_bot
+    'genshinkfc',  #原神声优语音，发送“KFC”或“原神KFC”即可，https://github.com/pcrbot/HoshinoBot-plugins-index
     'groupmaster',
     'guesscard',  #猜立绘，https://github.com/zangxx66/HoshinoBot-xcwRecord/tree/master/guesscard
     'hoshino_training',  #强化基础功能：https://github.com/zyujs/hoshino_training
@@ -43,6 +44,7 @@ MODULES_ON = {
     # 'kancolle',
     'lxsay',  #鲁迅说，群里下的插件
     # 'mikan',
+    'NvZhuang',  #女装迫害插件，资源路径res//img/NvZhuang，https://github.com/MiaoXia0/NvZhuang
     'pcrclanbattle',
     'picfinder_take',  #搜图：https://github.com/pcrbot/picfinder_take
     'priconne',
